@@ -1,5 +1,8 @@
 {
     "name": "dependency-injection",
     "version": "1.0.0",
-    "description": "A simple dependency injection framework for c#"
+    "description": "A simple dependency injection framework for c#",
+    "displayName": "Dependency Injection Framework",
+    "unity": "2021.3",
+    "dependencies": {}
 }
