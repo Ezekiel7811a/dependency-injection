@@ -1,5 +1,6 @@
 using System;
 using System.Reflection;
+using System.Linq;
 [AttributeUsage(AttributeTargets.Property | AttributeTargets.Field)]
 public class InjectAttribute : Attribute { }
 

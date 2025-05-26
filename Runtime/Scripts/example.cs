@@ -1,4 +1,7 @@
-﻿using System.Reflection;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
 
 public class DummnyService
 {
@@ -16,7 +19,7 @@ public class DummyClient
     }
 }
 
-public class Program
+public class DependencyInjectionDemo
 {
     public static void Main(string[] args)
     {

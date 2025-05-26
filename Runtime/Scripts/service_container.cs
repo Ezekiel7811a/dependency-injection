@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 public class ServiceContainer
 {
     private readonly Dictionary<Type, object> _services = new();

@@ -4,5 +4,10 @@
     "description": "A simple dependency injection framework for c#",
     "displayName": "Dependency Injection Framework",
     "unity": "2021.3",
-    "dependencies": {}
+    "dependencies": {},
+    "author": {
+        "name": "Vincent Philippe",
+        "email": "vincentcharles.philippe@gmail.com",
+        "url": ""
+    }
 }
